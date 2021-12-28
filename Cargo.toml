@@ -1,6 +1,6 @@
 [package]
 name = "cargo-force-build"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2018"
 authors = ["CATS <Aurelien.Couthures@gmail.com>"]
 description = "Allow soft force build"
