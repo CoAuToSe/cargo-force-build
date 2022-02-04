@@ -1,3 +1,5 @@
+use std::env;
+
 fn main() {
     println!("Hello, world! (WIP)");
     // need to get the env for the folder "target"
